@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartCar Control</string>
+    <string name="door">Tür</string>
+    <string name="doorFuelNotice">Alle Türen müssen verriegeln werden und Tank ist leer</string>
+    <string name="doorNotice">Alle Türen müssen verriegeln werden</string>
+    <string name="engine">Motor</string>
+    <string name="engineNotice">Motor ist aus</string>
+    <string name="enterAmount">Gewünschte Menge zu tanken</string>
+    <string name="ac">Klima</string>
+    <string name="arrived">Angekommen</string>
+    <string name="boot">Kofferraum</string>
+    <string name="cool">Kalt</string>
+    <string name="currentRoute">Aktuelle Route</string>
+    <string name="departure">Startpunkt:</string>
+    <string name="departureSet">Startpunkt ist eingestellt</string>
+    <string name="destination">Zielpunkt:</string>
+    <string name="destinationSet">Zielpunkt ist eingesetzt</string>
+    <string name="distance">Distanz:</string>
+    <string name="fill">Tanken</string>
+    <string name="frontLeft">Vorne Links</string>
+    <string name="frontRight">Vorne Rechts</string>
+    <string name="fuel">Tank</string>
+    <string name="fuelLevel">Tanklevel</string>
+    <string name="fuelNotice">Tank ist leer</string>
+    <string name="lockAll">Alle verriegeln</string>
+    <string name="menu">Hauptmenu</string>
+    <string name="off">Aus</string>
+    <string name="on">An</string>
+    <string name="pause">Pause</string>
+    <string name="rearLeft">Hinten Links</string>
+    <string name="rearRight">Hinten Rechts</string>
+    <string name="resume">Weiter</string>
+    <string name="route">Route</string>
+    <string name="routeDeparture">Startpunkt</string>
+    <string name="routeDestination">Zielpunkt</string>
+    <string name="routeDialogMessage">gewählt, setzen als:</string>
+    <string name="routeNotice">Bitte setzen Sie die Route ein</string>
+    <string name="start">Start</string>
+    <string name="temperature">Temperatur:</string>
+    <string name="time">Zeit:</string>
+    <string name="warm">Warm</string>
+</resources>

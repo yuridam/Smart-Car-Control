@@ -1,0 +1,7 @@
+#Sat Jun 17 14:01:20 CEST 2017
+base.0=C\:\\Users\\Rizki Rahman\\AndroidStudioProjects\\SmartCarControl\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2f1c93ddd9846a71000c44e9a404d1cde4f7f1c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Rizki Rahman\\AndroidStudioProjects\\SmartCarControl\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d191c3a41c1f8e8f3211a46370beb6f231dc9d9c\\classes.dex
+base.1=C\:\\Users\\Rizki Rahman\\AndroidStudioProjects\\SmartCarControl\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d191c3a41c1f8e8f3211a46370beb6f231dc9d9c
+file.0=C\:\\Users\\Rizki Rahman\\AndroidStudioProjects\\SmartCarControl\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2f1c93ddd9846a71000c44e9a404d1cde4f7f1c\\classes.dex

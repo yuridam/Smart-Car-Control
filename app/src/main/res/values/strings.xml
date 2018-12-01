@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SmartCar Control</string>
+    <string name="menu">Main Menu</string>
+    <string name="door">Door</string>
+    <string name="ac">AC</string>
+    <string name="fuel">Fuel</string>
+    <string name="route">Route</string>
+    <string name="backToMenu" translatable="false">Menu</string>
+
+    <string name="engine">Engine</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="currentRoute">Current Route</string>
+    <string name="departure">Departure:</string>
+    <string name="destination">Destination:</string>
+    <string name="distance">Distance:</string>
+    <string name="time">ETA:</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="fuelLevel">Fuel level</string>
+    <string name="arrived">Arrived</string>
+
+    <string name="doorNotice">All doors must be locked first</string>
+    <string name="fuelNotice">Fuel tank is empty</string>
+    <string name="doorFuelNotice">All doors must be locked first and fuel tank is empty</string>
+    <string name="engineNotice">Engine is off</string>
+    <string name="routeNotice">Please set the route</string>
+
+    <string name="frontLeft">Front Left</string>
+    <string name="frontRight">Front Right</string>
+    <string name="rearLeft">Rear Left</string>
+    <string name="rearRight">Rear Right</string>
+    <string name="boot">Boot</string>
+    <string name="lockAll">Lock All</string>
+
+    <string name="enterAmount">Desired amount to fill</string>
+    <string name="fill">Fill</string>
+
+    <string name="cool">Cool</string>
+    <string name="warm">Warm</string>
+    <string name="temperature">Temperature: </string>
+
+    <string name="routeDialogMessage">selected, set as:</string>
+    <string name="routeDestination">Destination</string>
+    <string name="routeDeparture">Departure</string>
+    <string name="latitude" translatable="false">Latitude: </string>
+    <string name="longitude" translatable="false">Longitude: </string>
+
+    <string name="departureSet">Departure is set</string>
+    <string name="destinationSet">Destination is set</string>
+</resources>
